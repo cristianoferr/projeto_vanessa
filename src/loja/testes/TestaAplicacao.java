@@ -1,4 +1,4 @@
-package java.loja.testes;
+package loja.testes;
 
 import static org.junit.jupiter.api.Assertions.*;
 
