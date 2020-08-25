@@ -1,0 +1,62 @@
+Servidor:
+- Marca: texto 
+- Preço: real 
+- Quantidade: inteiro 
+- TipoHD: Texto 
+- MarcaHD: Texto 
+- MarcaFonte: Texto 
+- PotênciaFonte: inteiro 
+- TipoFonte: Texto 
+- CapacidadeHD: inteiro 
+- TipoMemória: Texto 
+- MarcaMemória: Texto 
+
+
+- SlotsMemória: inteiro 
+- CapacidadeMemória: inteiro 
+- NúmeroHD: inteiro 
+- TipoGabinete: Texto 
+- MarcaGabinete: Texto 
+
+Notebook:
+- Marca: texto 
+- Preço: real 
+- Quantidade: inteiro 
+- TipoHD: Texto 
+- MarcaHD: Texto 
+- MarcaFonte: Texto 
+- PotênciaFonte: inteiro 
+- TipoFonte: Texto 
+- CapacidadeHD: inteiro 
+- TipoMemória: Texto 
+- MarcaMemória: Texto
+
+ 
+- TipoMonitor: Texto 
+- MarcaMonitor: Texto 
+- ResoluçãoMonitor: inteiro 
+- NumeroSlotsMemória: inteiro 
+ 
+- SlotsMemória: inteiro 
+
+Desktop:
+- Marca: texto 
+- Preço: real 
+- Quantidade: inteiro 
+- TipoHD: Texto 
+- MarcaHD: Texto 
+- MarcaFonte: Texto 
+- PotênciaFonte: inteiro 
+- TipoFonte: Texto 
+- CapacidadeHD: inteiro 
+- TipoMemória: Texto
+- MarcaMemória: Texto 
+
+- TipoMonitor: Texto 
+- MarcaMonitor: Texto 
+- ResoluçãoMonitor: inteiro 
+- NumeroSlotsMemória: inteiro 
+
+ 
+- PlacasVídeo: inteiro 
+- MarcaPlacaVideo: texto 
